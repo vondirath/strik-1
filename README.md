@@ -1,3 +1,3 @@
 # strik
 
-Thi is the UI for the ecommerce site Strik.
+This is the UI for the ecommerce site Strik.
